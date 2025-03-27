@@ -19,3 +19,10 @@
 
     kinda getting the hang of it.
     and yes i am laughing at myself too, enjoyable watching noobs learn. (giggity)
+
+    well i figured it out.. i think.
+    for a proper commit message to help me later;
+    use git add
+    git commit -m "message here"
+    git push origin main OR git push
+    
