@@ -13,3 +13,6 @@
     tried "git push origin main" everything seemed to work and it uploaded to git hub.
     checked "git status" and the push was in red. cleared terminal (big mistake)
     unsure if it's working properly but it's something i get to come back to.
+
+    well somehow i manage to creat a file called 'git push origin main' instead of the file being pushed.
+    let's see if i can do it again but without far-king it up
