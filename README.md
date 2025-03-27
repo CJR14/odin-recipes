@@ -16,3 +16,6 @@
 
     well somehow i manage to creat a file called 'git push origin main' instead of the file being pushed.
     let's see if i can do it again but without far-king it up
+
+    kinda getting the hang of it.
+    and yes i am laughing at myself too, enjoyable watching noobs learn. (giggity)
